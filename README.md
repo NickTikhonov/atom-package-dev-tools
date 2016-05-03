@@ -1,5 +1,14 @@
-# atom-package-dev-tools package
+Atom Package Dev Tools
+============
 
-A short description of your package.
+The intended purpose of this package is to provide a collection of tools that
+accelerate development of Atom plugins. The main area of focus is automating
+monotonous tasks and provide shortcuts for frequent actions.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Shortcuts
+
+#### **ctrl-t ctrl-t**
+
+Toggles current file between code (lib directory) and tests (spec directory).
+
+![ToggleCodeSpec](/res/ctrltt.gif)
