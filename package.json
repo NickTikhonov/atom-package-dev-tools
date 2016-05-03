@@ -1,14 +1,14 @@
 {
   "name": "atom-package-dev-tools",
   "main": "./lib/atom-package-dev-tools",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "tools for speedy Atom plugin development",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-package-dev-tools:toggle-code-spec"
   },
-  "repository": "https://github.com/atom/atom-package-dev-tools",
+  "repository": "https://github.com/nicktikhonov/atom-package-dev-tools",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
