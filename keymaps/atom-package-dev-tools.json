@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-package-dev-tools:toggle"
+    "ctrl-t ctrl-t": "atom-package-dev-tools:toggle-code-spec"
   }
 }

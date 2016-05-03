@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-package-dev-tools",
-        "command": "atom-package-dev-tools:toggle"
+        "label": "Toggle Code/Spec",
+        "command": "atom-package-dev-tools:toggle-code-spec"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-package-dev-tools",
+          "label": "Package Dev Tools",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-package-dev-tools:toggle"
+              "label": "Toggle Code/Spec",
+              "command": "atom-package-dev-tools:toggle-code-spec"
             }
           ]
         }

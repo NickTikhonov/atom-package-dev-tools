@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-package-dev-tools:toggle"
+    "atom-workspace": "atom-package-dev-tools:toggle-code-spec"
   },
   "repository": "https://github.com/atom/atom-package-dev-tools",
   "license": "MIT",
