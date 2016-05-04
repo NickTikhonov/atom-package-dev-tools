@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle Code/Spec",
-        "command": "atom-package-dev-tools:toggle-code-spec"
+        "command": "package-dev-tools:toggle-code-spec"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle Code/Spec",
-              "command": "atom-package-dev-tools:toggle-code-spec"
+              "command": "package-dev-tools:toggle-code-spec"
             }
           ]
         }

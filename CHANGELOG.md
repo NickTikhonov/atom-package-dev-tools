@@ -1,3 +1,2 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 0.0.1 - First Release
+* Toggle Code/Spec - shortcut for quickly jumping to associated spec and back

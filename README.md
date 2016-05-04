@@ -1,4 +1,4 @@
-Atom Package Dev Tools
+Atom Editor Package Dev Tools
 ============
 
 The intended purpose of this package is to provide a collection of tools that
